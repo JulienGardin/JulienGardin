@@ -7,7 +7,7 @@ Here, I share various personal projects, code examples, starters, and more.
  ## Skills
  * Java / Spring Boot Web / Spring Data
  * Javascript / Angular / Thymeleaf
- * Outils DevOps / Docker / Ansible
+ * DevOps Tools / Docker / Ansible
 
 ## References
 
